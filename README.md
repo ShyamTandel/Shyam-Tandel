@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kuvadiya&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kuvadiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamTandel&label=Profile%20views&color=0e75b6&style=flat" alt="ShyamTandel" /> </p>
 
 - 🌱 I’m currently learning **web developement**
 
